@@ -8,6 +8,7 @@
 
 
 def main():
+    print "hello world!"
     pass
 
 
